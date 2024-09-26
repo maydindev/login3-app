@@ -31,7 +31,7 @@ export default function Home() {
                         LOGIN
                       </button>
 
-                      <div className="ml-11 justify-end w-36 mr-20 font-bold text-lg text-gray-700">
+                      <div className="ml-11 justify-end w-36 mr-20 font-bold text-lg text-right text-gray-700">
                         <a href="" className="ml-">
                           Forgot password
                         </a>
